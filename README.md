@@ -51,5 +51,5 @@ Netflix wants to understand audience trends and identify content opportunities a
 
 ## Author
 
-Manish Kumar
-Data Analyst
+*Manish Kumar
+*Data Analyst
